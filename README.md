@@ -27,3 +27,4 @@ Subclassing API</a>
 
 
 # DL_TF_CNN_QuickDraw
+# DL_TF_RNN_TextGenerator
